@@ -1,5 +1,93 @@
 <h1 align="center">Hi 👋, I'm Saumya Arunodani Cooray</h1>
-<h3 align="center">Researcher and Academic Professional</h3>
+<h3 align="center">Lecturer | AI Researcher | MSc in Artificial Intelligence</h3>
+
+<p align="center">
+🎓 First Class Honours Graduate | 🥇 Gold Medalist | 🤖 Sinhala NLP Researcher
+</p>
+
+---
+
+## 👋 About Me
+
+I am a passionate academic and AI researcher specializing in Machine Learning and Natural Language Processing, with a particular focus on low-resource language technologies such as Sinhala NLP. With a strong foundation in research, teaching, and project management, I am committed to developing intelligent and socially responsible AI systems while contributing to higher education and innovation.
+
+---
+
+## 👩🏫 Academic Profile
+
+- 🎓 **MSc in Artificial Intelligence** – University of Moratuwa (2025 – Present)
+- 🎓 **BSc (Hons) in Information & Communication Technology** – First Class Honours (CGPA: 3.81/4.00, Batch Top)  
+  Rajarata University of Sri Lanka
+- 🥇 **Professor B.A. Karunaratne Gold Medal** – Highest Cumulative GPA, Faculty of Technology
+- 🥇 **Gold Medal – Most Outstanding ICT Student**, Faculty of Technology
+
+Currently serving as:
+- 👩🏫 **Lecturer (On Contract)** – The Open University of Sri Lanka  
+- 👩🏫 **Visiting Lecturer** – Metropolitan College (City Campus, Dehiwala)
+
+---
+
+## 🔬 Research Interests
+
+- Natural Language Processing (NLP)
+- Low-Resource Language Processing (Sinhala NLP)
+- Machine Learning & Deep Learning
+- Harmful Content & Hate Speech Detection
+- AI for Social Good
+
+---
+
+## 📚 Publications & Research
+
+- 📄 *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram*  
+  9th International Conference on Advances in Technology and Computing, 2024 (IEEE Indexed)
+
+- 📄 *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram – Review & Concept Note*  
+  2nd Undergraduate Research Symposium of Technology, 2024
+
+- 📄 *Predicting Policy-Driven Adjustments in Construction Cost Estimates*  
+  Global Conference for Multidisciplinary, 2025
+
+- 📘 Co-Author – *System Analysis and Design* (ISBN 978-955-23-1946-4)
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+Python | Java | C | C++ | C# | SQL | HTML | React JS | .NET
+
+### 🤖 AI / Machine Learning
+Scikit-learn | TensorFlow | PyTorch | NLTK | NumPy | Pandas  
+TF-IDF | SVM | Data Visualization (Matplotlib, Seaborn)
+
+### ⚙️ Tools
+Git | GitHub | Google Colab | Jupyter | Android Studio  
+IntelliJ IDEA | NetBeans | Visual Studio | MATLAB  
+JIRA | Asana | Trello
+
+---
+
+## 💼 Professional Experience
+
+- **Lecturer (On Contract)** – The Open University of Sri Lanka (2024 – Present)
+- **Visiting Lecturer** – Metropolitan College (2024 – Present)
+- **Associate Project Manager** – Kerner Norland (2024)
+- **Trainee Project Manager** – Kerner Norland (2023–2024)
+
+---
+
+## 🏆 Professional Certification
+
+- 🏅 **Certified ScrumMaster® (CSM®)** – Scrum Alliance (98/100)
+
+---
+
+## 🚀 Featured Research Project
+
+🛡 **Sinhala Harmful Content Detection System**  
+Machine Learning-based detection of harassment and hate speech in Sinhala Telegram messages using TF-IDF and SVM, integrated with a Telegram Bot for real-time moderation.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
