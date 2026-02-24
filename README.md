@@ -7,23 +7,23 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a passionate academic and AI researcher specializing in Machine Learning and Natural Language Processing, with a particular focus on low-resource language technologies such as Sinhala NLP. With a strong foundation in research, teaching, and project management, I am committed to developing intelligent and socially responsible AI systems while contributing to higher education and innovation.
 
 ---
 
-## 👩🏫 Academic Profile
+## 🎓 Academic Profile
 
-- 🎓 **MSc in Artificial Intelligence** – University of Moratuwa (2025 – Present)
-- 🎓 **BSc (Hons) in Information & Communication Technology** – First Class Honours (CGPA: 3.81/4.00, Batch Top)  
+- **MSc in Artificial Intelligence** – University of Moratuwa (2025 – Present)
+- **BSc (Hons) in Information & Communication Technology** – First Class Honours (CGPA: 3.81/4.00, Batch Top)  
   Rajarata University of Sri Lanka
-- 🥇 **Professor B.A. Karunaratne Gold Medal** – Highest Cumulative GPA, Faculty of Technology
-- 🥇 **Gold Medal – Most Outstanding ICT Student**, Faculty of Technology
+- **Professor B.A. Karunaratne Gold Medal** – Highest Cumulative GPA, Faculty of Technology
+- **Gold Medal – Most Outstanding ICT Student**, Faculty of Technology
 
 Currently serving as:
-- 👩🏫 **Lecturer (On Contract)** – The Open University of Sri Lanka  
-- 👩🏫 **Visiting Lecturer** – Metropolitan College (City Campus, Dehiwala)
+- **Lecturer (On Contract)** – The Open University of Sri Lanka  
+- **Visiting Lecturer** – Metropolitan College (City Campus, Dehiwala)
 
 ---
 
@@ -52,22 +52,6 @@ Currently serving as:
 
 ---
 
-## 🛠 Technical Skills
-
-### 💻 Programming
-Python | Java | C | C++ | C# | SQL | HTML | React JS | .NET
-
-### 🤖 AI / Machine Learning
-Scikit-learn | TensorFlow | PyTorch | NLTK | NumPy | Pandas  
-TF-IDF | SVM | Data Visualization (Matplotlib, Seaborn)
-
-### ⚙️ Tools
-Git | GitHub | Google Colab | Jupyter | Android Studio  
-IntelliJ IDEA | NetBeans | Visual Studio | MATLAB  
-JIRA | Asana | Trello
-
----
-
 ## 💼 Professional Experience
 
 - **Lecturer (On Contract)** – The Open University of Sri Lanka (2024 – Present)
@@ -79,7 +63,7 @@ JIRA | Asana | Trello
 
 ## 🏆 Professional Certification
 
-- 🏅 **Certified ScrumMaster® (CSM®)** – Scrum Alliance (98/100)
+- **Certified ScrumMaster® (CSM®)** – Scrum Alliance (98/100)
 
 ---
 
