@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saumya Arunodani Cooray</h1>
-<h3 align="center">Lecturer | AI Researcher | MSc in Artificial Intelligence</h3>
+<h3 align="center">Lecturer | AI Researcher | CSM®</h3>
 
 <p align="center">
-🎓 First Class Honours Graduate | 🥇 Gold Medalist | 🤖 Sinhala NLP Researcher
+First Class Honours Graduate | Sinhala NLP Researcher
 </p>
 
 ---
@@ -21,10 +21,6 @@ I am a passionate academic and AI researcher specializing in Machine Learning an
 - **Professor B.A. Karunaratne Gold Medal** – Highest Cumulative GPA, Faculty of Technology
 - **Gold Medal – Most Outstanding ICT Student**, Faculty of Technology
 
-Currently serving as:
-- **Lecturer (On Contract)** – The Open University of Sri Lanka  
-- **Visiting Lecturer** – Metropolitan College (City Campus, Dehiwala)
-
 ---
 
 ## 🔬 Research Interests
@@ -37,18 +33,18 @@ Currently serving as:
 
 ---
 
-## 📚 Publications & Research
+## 📄 Publications & Research
 
-- 📄 *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram*  
+-  *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram*  
   9th International Conference on Advances in Technology and Computing, 2024 (IEEE Indexed)
 
-- 📄 *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram – Review & Concept Note*  
+- *Machine Learning Approach for Detection of Harassment and Hate Speech in Sinhala Text Messages on Telegram – Review & Concept Note*  
   2nd Undergraduate Research Symposium of Technology, 2024
 
-- 📄 *Predicting Policy-Driven Adjustments in Construction Cost Estimates*  
+- *Predicting Policy-Driven Adjustments in Construction Cost Estimates*  
   Global Conference for Multidisciplinary, 2025
 
-- 📘 Co-Author – *System Analysis and Design* (ISBN 978-955-23-1946-4)
+- Co-Author – *System Analysis and Design* (ISBN 978-955-23-1946-4)
 
 ---
 
@@ -63,14 +59,7 @@ Currently serving as:
 
 ## 🏆 Professional Certification
 
-- **Certified ScrumMaster® (CSM®)** – Scrum Alliance (98/100)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saumyacooray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saumyacooray/" height="30" width="40" /></a>
-</p>
+- **Certified ScrumMaster® (CSM®)** – Scrum Alliance
 
 ---
 
@@ -82,12 +71,11 @@ Currently serving as:
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
-  <!-- Featured Repository Cards -->
-<p align="left">
+ <p align="left">
   
   <a href="https://github.com/Arunodani/sinhala_harmful_content_detector">
     <img width="350" 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arunodani&repo=sinhala_harmful_content_detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arunodani&repo=sinhala_harmful_content_detector&theme=react&bg_color=228B22&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" 
     alt="Sinhala Harmful Content Detector">
   </a>
 
@@ -97,6 +85,15 @@ Currently serving as:
     alt="Telegram Bot English News">
   </a>
 
+</p>
+
+---
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saumyacooray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saumyacooray/" height="30" width="40" /></a>
 </p>
 
 ---
