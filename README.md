@@ -75,7 +75,7 @@ I am a passionate academic and AI researcher specializing in Machine Learning an
   
   <a href="https://github.com/Arunodani/sinhala_harmful_content_detector">
     <img width="350" 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arunodani&repo=sinhala_harmful_content_detector&theme=react&bg_color=228B22&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arunodani&repo=sinhala_harmful_content_detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" 
     alt="Sinhala Harmful Content Detector">
   </a>
 
